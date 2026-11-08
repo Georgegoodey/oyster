@@ -1,0 +1,11 @@
+:root {
+  --cream: #f5ecd7;
+  --ink: #111;
+  --tan: #c9a566;
+  --chili: #d8432b;
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--cream);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--cream); }
